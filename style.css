@@ -1,0 +1,27 @@
+.header{
+    width: 784px;
+    height: 200px;
+    background-image: url(https://4.bp.blogspot.com/-AhRi2T2zMPM/Wfs5n00g7VI/AAAAAAAABD0/gzwgFNPv1MsKh3hAoGgAtieCoghBsvMkQCLcBGAs/s1600/1121218CMM780x390.jpg)
+}
+.kolom1{
+	width: 200px;
+    height: auto;
+    position: fixed;
+}
+
+#kolom2{
+	width: 584px;
+	height: auto;
+	margin-left: 205px;
+	
+}
+
+footer{
+	width: 784px;
+	height: 100px;
+	background-color: rgb(118, 80, 148);
+	padding: 1px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
