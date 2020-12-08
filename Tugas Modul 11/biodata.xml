@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<biodata>
+    <nama>Angga Kurnia</nama>
+    <nim> "118140185"</nim>
+    <hobby> "Main game Mobile legend rank mytic"</hobby>
+    <alamat>
+        saya tinggal di
+        <jl>terusan ryacudu</jl>
+        <Gg>kopi raya</Gg>
+        <kota>Lampung Selatan</kota>
+    </alamat>
+    <mediaSosial>
+        <instagram>anggakurnia_15</instagram>
+        <github>ANGGAKURNIA15</github>
+    </mediaSosial>
+    <Gamekesukaan>
+        <Moba>Mobile Legends</Moba>
+    </Gamekesukaan>
+</biodata>
